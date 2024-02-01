@@ -29,4 +29,19 @@ WHEN all requirements are met
 THEN the employees password is generated with the character length, and if they wanted any special characters, numbers, uppercase or lowercase
 ```
 
+## MOCK UP
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+
+## LINKS
+
+file:///C:/Users/amand/Desktop/password%20generator/password-generator/02-Challenge/Develop/index.html
+
+https://amanda-er.github.io/password-generator/
+
 
